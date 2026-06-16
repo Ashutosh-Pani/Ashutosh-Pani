@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate web2/web3 developer from India</h3>
 
-- 🔭 I’m currently working on **Zomato clone**
+- 🔭 I’m currently working on **Real time Chat App**
 
 - 🌱 I’m currently learning **React , Next.js and TypeScript**
 
